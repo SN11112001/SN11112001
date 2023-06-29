@@ -11,7 +11,8 @@
 
 <br>
 
-![Github Banner](https://github.com/SN11112001/About-Me/assets/58877807/ce85736c-c4c2-47eb-a30b-16f5ddb615d8)
+![Github Banner](https://github.com/SN11112001/SN11112001/assets/58877807/4528c887-e9ea-492b-96b7-0e163817e7f7)
+
 
 <br>
 
