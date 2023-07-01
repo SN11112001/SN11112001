@@ -13,8 +13,9 @@
 
 ![Github Banner](https://github.com/SN11112001/SN11112001/assets/58877807/4528c887-e9ea-492b-96b7-0e163817e7f7)
 
-
 <br>
+
+![](https://komarev.com/ghpvc/?username=sn11112001&color=red)
 
 - 🌱 I’m currently learning **Machine Learning.**
 
