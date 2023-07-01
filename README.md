@@ -17,6 +17,8 @@
 
 ![](https://komarev.com/ghpvc/?username=sn11112001&color=red)
 
+<br>
+
 - 🌱 I’m currently learning **Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/532e2459](https://tinyurl.com/532e2459)
